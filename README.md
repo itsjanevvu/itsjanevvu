@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsjanevvu
 - 👀 I’m interested in Research & Development!
-- 💞️ I’m looking to collaborate on design projects as a front end developer
+- 💞️ I’m looking to learn more about the computational biology space!
 - 📫 How to reach me ja2wu@uwaterloo.ca
 
 <!---
