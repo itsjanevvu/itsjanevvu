@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itsjanevvu
 - 👀 I’m interested in Research & Development!
-- 🌱 I’m currently learning React.js & Angular!
 - 💞️ I’m looking to collaborate on design projects as a front end developer
 - 📫 How to reach me ja2wu@uwaterloo.ca
 
