@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsjanevvu
-- 👀 I’m interested in  data analytics and engineering!
+- 👀 I’m interested in  data science and engineering!
 - 💞️ I’m looking to learn more about the computational biology space!
 - 📫 How to reach me ja2wu@uwaterloo.ca
 
